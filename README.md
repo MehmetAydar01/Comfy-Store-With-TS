@@ -20,6 +20,7 @@
 
 - Fetch and list products data
 - Navigate to detailed product pages
+- Placing orders & List orders
 - Browse through different product categories, product companies etc.
 - Dynamic Filtering Operations
 - Dynamic search functionality
