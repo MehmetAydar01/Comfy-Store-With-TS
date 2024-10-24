@@ -10,7 +10,6 @@
 - **State Management:** [Redux Toolkit](https://redux-toolkit.js.org/)
 - **UI Library & Styling:** [Shadcn/ui](https://ui.shadcn.com/)
 - **UI Icon Library:** [Lucide React](https://lucide.dev/guide/packages/lucide-react)
-- **UI Icon Library:** [Lucide React](https://lucide.dev/guide/packages/lucide-react)
 - **Build Tool:** [Vite](https://vitejs.dev/)
 - **Routing:** [React Router DOM](https://reactrouter.com/)
 - **Data Fetching:** [React Router DOM Loader](https://reactrouter.com/en/main/route/loader)
